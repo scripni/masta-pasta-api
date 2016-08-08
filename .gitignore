@@ -1,1 +1,6 @@
+# dotnet project lock
 project.lock.json
+
+# binary output
+bin/
+obj/
